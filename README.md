@@ -8,7 +8,7 @@ Este proyecto consiste en la creación de un semáforo básico utilizando una Ra
 *   **Cliente:** Fedora Linux (Máquina Virtual en VirtualBox).
 *   **Servidor/Dispositivo:** Raspberry Pi (con sistema operativo basado en Linux).
 *   **Lenguaje:** Python 3.
-*   **Librerías:** `RPi.GPIO`.
+*   **Librerías:** `RPi.GPIO`
 *   **Conexión:** Red local vía SSH.
 
 ## 🔌 Conexiones de Hardware (Pines)
@@ -21,7 +21,6 @@ Según el código y la configuración BCM, las conexiones físicas son las sigui
 | **Amarillo** | GPIO 24 | Pin 18 | Salida (Output) |
 | **Verde** | GPIO 23 | Pin 16 | Salida (Output) |
 
-*Nota: Se asume que cada LED tiene su resistencia correspondiente conectada en serie.*
 
 ## 🚀 Pasos Realizados (Comandos)
 
