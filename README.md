@@ -31,7 +31,7 @@ Desde la terminal de Fedora, nos conectamos a la Raspberry Pi (usuario `mar` e I
 ```bash
 ssh mar@192.168.50.83
 ```
-###2. Preparación del Entorno Virtual
+### 2. Preparación del Entorno Virtual
 Dentro de la Raspberry Pi, se activó un entorno virtual de Python para gestionar las dependencias:
 ```bash
 source 8S11/bin/actívate
@@ -57,6 +57,14 @@ o	Rojo: Se enciende el LED Rojo durante 10 segundos.
 ## 📸 Evidencia de Ejecución
 En la terminal se observó el siguiente flujo:
 1.	Activación del entorno (8S11).
-2.	Ejecución del script con python semaforoLeds.py.
-3.	Impresión en consola de la secuencia: LED VERDE, LED AMARILLO, LED ROJO.
-4.	Interrupción manual con Ctrl+C y mensaje de limpieza exitosa.
+2.	Creación del script 
+
+![Captura de pantalla](images/terminal.jpeg)
+
+3.	Ejecución del script con python semaforoLeds.py.
+4.	Impresión en consola de la secuencia: LED VERDE, LED AMARILLO, LED ROJO.
+
+![Captura de pantalla](images/nano.jpeg)
+
+5.	Interrupción manual con Ctrl+C y mensaje de limpieza exitosa.
+6. Encendido de Leds exitoso 
