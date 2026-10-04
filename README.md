@@ -59,12 +59,17 @@ En la terminal se observó el siguiente flujo:
 1.	Activación del entorno (8S11).
 2.	Creación del script 
 
-![Captura de pantalla](images/terminal.jpeg)
+![Captura de pantalla](images/nano.jpeg)
 
 3.	Ejecución del script con python semaforoLeds.py.
 4.	Impresión en consola de la secuencia: LED VERDE, LED AMARILLO, LED ROJO.
 
-![Captura de pantalla](images/nano.jpeg)
+![Captura de pantalla](images/terminal.jpeg)
 
 5.	Interrupción manual con Ctrl+C y mensaje de limpieza exitosa.
-6. Encendido de Leds exitoso 
+6. Encendido de Leds exitoso
+
+![Captura de pantalla](images/1.jpeg)
+![Captura de pantalla](images/2.jpeg)
+![Captura de pantalla](images/3.jpeg)
+![Captura de pantalla](images/4.jpeg)
